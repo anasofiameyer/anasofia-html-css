@@ -1,4 +1,4 @@
-# Ana Sofia's Git practice
+# Ana Sofia's HTML and CSS practice
 
 By Ana Sofia, Intro Coding for Journalists class
 
